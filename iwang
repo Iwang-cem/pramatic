@@ -1,0 +1,6 @@
+BaseGameEngineResponse>
+<status>
+<error>99</error>
+<description>Internal Service Error</description>
+</status>
+</BaseGameEngineResponse>
